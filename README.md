@@ -1,4 +1,5 @@
-# COMP4602
+# Social Network
+
 
 Mesa 1.2.1 was developed and tested with older versions of Python (Python 3.7 – 3.10)
 
